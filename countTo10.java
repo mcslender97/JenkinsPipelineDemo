@@ -6,7 +6,7 @@ public class countTo10 {
                 System.out.println(
                     i
                 );
-            
+            }
 
 
     }
